@@ -1,0 +1,46 @@
+
+8com.Sapient.Library.AddBookToTextFile(com.Sapient.IBook)]
+SC:\Users\ansameta\Desktop\Ps_bootcamp\bootcamp-training\week1\day4\Proj2\Library.cs{ {(&"0*Û
+0ø
+º
+]
+SC:\Users\ansameta\Desktop\Ps_bootcamp\bootcamp-training\week1\day4\Proj2\Library.cs}% }(A
+%0System.IO.StreamWriter"!System.IO.File.AppendText(string)*"
+System.IO.File*
+""¶
+£
+]
+SC:\Users\ansameta\Desktop\Ps_bootcamp\bootcamp-training\week1\day4\Proj2\Library.cs}  }(A
+swSystem.IO.StreamWriter"__id*
+
+%0System.IO.StreamWriter*
+1*≤
+1∫∑
+]
+SC:\Users\ansameta\Desktop\Ps_bootcamp\bootcamp-training\week1\day4\Proj2\Library.cs (+
+%1string"com.Sapient.IBook.getTitle()*
+
+NewBookcom.Sapient.IBook2
+getTitle()í
+è
+]
+SC:\Users\ansameta\Desktop\Ps_bootcamp\bootcamp-training\week1\day4\Proj2\Library.cs (/
+%2string"__concat*
+
+%1string*
+""’“
+]
+SC:\Users\ansameta\Desktop\Ps_bootcamp\bootcamp-training\week1\day4\Proj2\Library.cs (0
+
+%3void"%System.IO.StreamWriter.Write(string?)*
+
+swSystem.IO.StreamWriter*
+
+%2string2Write(string?)*
+2*{
+2"v
+_
+SC:\Users\ansameta\Desktop\Ps_bootcamp\bootcamp-training\week1\day4\Proj2\Library.csÅ Å(	
+implicit return:
+NewBookcom.Sapient.IBookB
+com.Sapient.Library

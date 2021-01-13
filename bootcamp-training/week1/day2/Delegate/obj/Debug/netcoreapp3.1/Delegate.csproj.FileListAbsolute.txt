@@ -1,0 +1,13 @@
+/home/anshul/Desktop/Ps_bootcamp/week1/day2/Delegate/obj/Debug/netcoreapp3.1/Delegate.csprojAssemblyReference.cache
+/home/anshul/Desktop/Ps_bootcamp/week1/day2/Delegate/obj/Debug/netcoreapp3.1/Delegate.AssemblyInfoInputs.cache
+/home/anshul/Desktop/Ps_bootcamp/week1/day2/Delegate/obj/Debug/netcoreapp3.1/Delegate.AssemblyInfo.cs
+/home/anshul/Desktop/Ps_bootcamp/week1/day2/Delegate/obj/Debug/netcoreapp3.1/Delegate.csproj.CoreCompileInputs.cache
+/home/anshul/Desktop/Ps_bootcamp/week1/day2/Delegate/bin/Debug/netcoreapp3.1/Delegate
+/home/anshul/Desktop/Ps_bootcamp/week1/day2/Delegate/bin/Debug/netcoreapp3.1/Delegate.deps.json
+/home/anshul/Desktop/Ps_bootcamp/week1/day2/Delegate/bin/Debug/netcoreapp3.1/Delegate.runtimeconfig.json
+/home/anshul/Desktop/Ps_bootcamp/week1/day2/Delegate/bin/Debug/netcoreapp3.1/Delegate.runtimeconfig.dev.json
+/home/anshul/Desktop/Ps_bootcamp/week1/day2/Delegate/bin/Debug/netcoreapp3.1/Delegate.dll
+/home/anshul/Desktop/Ps_bootcamp/week1/day2/Delegate/bin/Debug/netcoreapp3.1/Delegate.pdb
+/home/anshul/Desktop/Ps_bootcamp/week1/day2/Delegate/obj/Debug/netcoreapp3.1/Delegate.dll
+/home/anshul/Desktop/Ps_bootcamp/week1/day2/Delegate/obj/Debug/netcoreapp3.1/Delegate.pdb
+/home/anshul/Desktop/Ps_bootcamp/week1/day2/Delegate/obj/Debug/netcoreapp3.1/Delegate.genruntimeconfig.cache

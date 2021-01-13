@@ -1,0 +1,13 @@
+/home/anshul/Desktop/Ps_bootcamp/week1/day2/Indexor/bin/Debug/netcoreapp3.1/Indexor
+/home/anshul/Desktop/Ps_bootcamp/week1/day2/Indexor/bin/Debug/netcoreapp3.1/Indexor.deps.json
+/home/anshul/Desktop/Ps_bootcamp/week1/day2/Indexor/bin/Debug/netcoreapp3.1/Indexor.runtimeconfig.json
+/home/anshul/Desktop/Ps_bootcamp/week1/day2/Indexor/bin/Debug/netcoreapp3.1/Indexor.runtimeconfig.dev.json
+/home/anshul/Desktop/Ps_bootcamp/week1/day2/Indexor/bin/Debug/netcoreapp3.1/Indexor.dll
+/home/anshul/Desktop/Ps_bootcamp/week1/day2/Indexor/bin/Debug/netcoreapp3.1/Indexor.pdb
+/home/anshul/Desktop/Ps_bootcamp/week1/day2/Indexor/obj/Debug/netcoreapp3.1/Indexor.csprojAssemblyReference.cache
+/home/anshul/Desktop/Ps_bootcamp/week1/day2/Indexor/obj/Debug/netcoreapp3.1/Indexor.AssemblyInfoInputs.cache
+/home/anshul/Desktop/Ps_bootcamp/week1/day2/Indexor/obj/Debug/netcoreapp3.1/Indexor.AssemblyInfo.cs
+/home/anshul/Desktop/Ps_bootcamp/week1/day2/Indexor/obj/Debug/netcoreapp3.1/Indexor.csproj.CoreCompileInputs.cache
+/home/anshul/Desktop/Ps_bootcamp/week1/day2/Indexor/obj/Debug/netcoreapp3.1/Indexor.dll
+/home/anshul/Desktop/Ps_bootcamp/week1/day2/Indexor/obj/Debug/netcoreapp3.1/Indexor.pdb
+/home/anshul/Desktop/Ps_bootcamp/week1/day2/Indexor/obj/Debug/netcoreapp3.1/Indexor.genruntimeconfig.cache

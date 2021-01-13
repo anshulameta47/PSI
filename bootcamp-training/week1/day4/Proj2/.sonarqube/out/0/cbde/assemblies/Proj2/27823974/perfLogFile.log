@@ -1,0 +1,10 @@
+File name	Line	Function	Duration[ms]	Explored nodes
+C:\Users\ansameta\Desktop\Ps_bootcamp\bootcamp-training\week1\day4\Proj2\AudioBook.cs	12	_com.Sapient.AudioBook.getCd$$	0	2
+C:\Users\ansameta\Desktop\Ps_bootcamp\bootcamp-training\week1\day4\Proj2\AudioBook.cs	17	_com.Sapient.AudioBook.setCd$string$	0	3
+C:\Users\ansameta\Desktop\Ps_bootcamp\bootcamp-training\week1\day4\Proj2\AudioBook.cs	21	_com.Sapient.AudioBook.Play$$	0	3
+C:\Users\ansameta\Desktop\Ps_bootcamp\bootcamp-training\week1\day4\Proj2\NormalBook.cs	20	_com.Sapient.NormalBook.getTitle$$	0	2
+C:\Users\ansameta\Desktop\Ps_bootcamp\bootcamp-training\week1\day4\Proj2\NormalBook.cs	24	_com.Sapient.NormalBook.getAuthor$$	0	2
+C:\Users\ansameta\Desktop\Ps_bootcamp\bootcamp-training\week1\day4\Proj2\NormalBook.cs	28	_com.Sapient.NormalBook.getPrice$$	0	2
+C:\Users\ansameta\Desktop\Ps_bootcamp\bootcamp-training\week1\day4\Proj2\NormalBook.cs	32	_com.Sapient.NormalBook.setPrice$float$	0	5
+C:\Users\ansameta\Desktop\Ps_bootcamp\bootcamp-training\week1\day4\Proj2\NormalBook.cs	39	_com.Sapient.NormalBook.setId$int$	0	3
+C:\Users\ansameta\Desktop\Ps_bootcamp\bootcamp-training\week1\day4\Proj2\NormalBook.cs	43	_com.Sapient.NormalBook.ToString$$	0	2

@@ -1,0 +1,48 @@
+
+(com.Sapient.Library.validateType(string)]
+SC:\Users\ansameta\Desktop\Ps_bootcamp\bootcamp-training\week1\day4\Proj2\Library.csp p( "0*º
+0¬
+©
+]
+SC:\Users\ansameta\Desktop\Ps_bootcamp\bootcamp-training\week1\day4\Proj2\Library.csr r(*
+
+%0bool"string.IsNullOrEmpty(string?)*
+"
+string*
+
+inputstring*
+1
+2*ÿ
+2ñ
+î
+]
+SC:\Users\ansameta\Desktop\Ps_bootcamp\bootcamp-training\week1\day4\Proj2\Library.csr. r(L
+
+%1bool"<System.Text.RegularExpressions.Regex.IsMatch(string, string)*("&
+$System.Text.RegularExpressions.Regex*
+
+inputstring*
+""*
+1
+3*›
+1¬
+©
+]
+SC:\Users\ansameta\Desktop\Ps_bootcamp\bootcamp-training\week1\day4\Proj2\Library.cst t([
+
+%2void" System.Console.WriteLine(string)*"
+System.Console*
+"""g
+]
+SC:\Users\ansameta\Desktop\Ps_bootcamp\bootcamp-training\week1\day4\Proj2\Library.csu u(
+""*l
+3"g
+]
+SC:\Users\ansameta\Desktop\Ps_bootcamp\bootcamp-training\week1\day4\Proj2\Library.csx x(
+""*y
+4"t
+]
+SC:\Users\ansameta\Desktop\Ps_bootcamp\bootcamp-training\week1\day4\Proj2\Library.csy y(	
+implicit return:
+inputstringB
+com.Sapient.Library

@@ -1,0 +1,63 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\ansameta\\Desktop\\Ps_bootcamp\\bootcamp-training\\week3\\day5\\TweetBook.Web\\TweetBook.Web.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\ansameta\\Desktop\\Ps_bootcamp\\bootcamp-training\\week3\\day5\\TweetBook.Web\\TweetBook.Web.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ansameta\\Desktop\\Ps_bootcamp\\bootcamp-training\\week3\\day5\\TweetBook.Web\\TweetBook.Web.csproj",
+        "projectName": "TweetBook.Web",
+        "projectPath": "C:\\Users\\ansameta\\Desktop\\Ps_bootcamp\\bootcamp-training\\week3\\day5\\TweetBook.Web\\TweetBook.Web.csproj",
+        "packagesPath": "C:\\Users\\ansameta\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ansameta\\Desktop\\Ps_bootcamp\\bootcamp-training\\week3\\day5\\TweetBook.Web\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ansameta\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

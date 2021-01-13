@@ -1,0 +1,13 @@
+C:\Users\ansameta\Desktop\Ps_bootcamp\bootcamp-training\week2\day2\LMSUsingAdo\bin\Debug\netcoreapp3.1\LMSUsingAdo.exe
+C:\Users\ansameta\Desktop\Ps_bootcamp\bootcamp-training\week2\day2\LMSUsingAdo\bin\Debug\netcoreapp3.1\LMSUsingAdo.deps.json
+C:\Users\ansameta\Desktop\Ps_bootcamp\bootcamp-training\week2\day2\LMSUsingAdo\bin\Debug\netcoreapp3.1\LMSUsingAdo.runtimeconfig.json
+C:\Users\ansameta\Desktop\Ps_bootcamp\bootcamp-training\week2\day2\LMSUsingAdo\bin\Debug\netcoreapp3.1\LMSUsingAdo.runtimeconfig.dev.json
+C:\Users\ansameta\Desktop\Ps_bootcamp\bootcamp-training\week2\day2\LMSUsingAdo\bin\Debug\netcoreapp3.1\LMSUsingAdo.dll
+C:\Users\ansameta\Desktop\Ps_bootcamp\bootcamp-training\week2\day2\LMSUsingAdo\bin\Debug\netcoreapp3.1\LMSUsingAdo.pdb
+C:\Users\ansameta\Desktop\Ps_bootcamp\bootcamp-training\week2\day2\LMSUsingAdo\obj\Debug\netcoreapp3.1\LMSUsingAdo.csprojAssemblyReference.cache
+C:\Users\ansameta\Desktop\Ps_bootcamp\bootcamp-training\week2\day2\LMSUsingAdo\obj\Debug\netcoreapp3.1\LMSUsingAdo.AssemblyInfoInputs.cache
+C:\Users\ansameta\Desktop\Ps_bootcamp\bootcamp-training\week2\day2\LMSUsingAdo\obj\Debug\netcoreapp3.1\LMSUsingAdo.AssemblyInfo.cs
+C:\Users\ansameta\Desktop\Ps_bootcamp\bootcamp-training\week2\day2\LMSUsingAdo\obj\Debug\netcoreapp3.1\LMSUsingAdo.csproj.CoreCompileInputs.cache
+C:\Users\ansameta\Desktop\Ps_bootcamp\bootcamp-training\week2\day2\LMSUsingAdo\obj\Debug\netcoreapp3.1\LMSUsingAdo.dll
+C:\Users\ansameta\Desktop\Ps_bootcamp\bootcamp-training\week2\day2\LMSUsingAdo\obj\Debug\netcoreapp3.1\LMSUsingAdo.pdb
+C:\Users\ansameta\Desktop\Ps_bootcamp\bootcamp-training\week2\day2\LMSUsingAdo\obj\Debug\netcoreapp3.1\LMSUsingAdo.genruntimeconfig.cache

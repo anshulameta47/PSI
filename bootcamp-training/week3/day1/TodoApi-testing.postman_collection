@@ -1,0 +1,125 @@
+{
+	"info": {
+		"_postman_id": "b3aa8e08-0206-41a7-be7c-15f97e607a6d",
+		"name": "API-testing",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "https://localhost:44306/api/TodoItems/",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n  \"name\":\"test app\",\r\n  \"isComplete\":false\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://localhost:60995/api/TodoItems/",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "60995",
+					"path": [
+						"api",
+						"TodoItems",
+						""
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "https://localhost:44306/api/TodoItems",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"method": "GET",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"id\":2,\r\n  \"name\":\"walk cat\",\r\n  \"isComplete\":false\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "https://localhost:44306/api/TodoItems/",
+					"protocol": "https",
+					"host": [
+						"localhost"
+					],
+					"port": "44306",
+					"path": [
+						"api",
+						"TodoItems",
+						""
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "https://localhost:44306/api/TodoItems/",
+			"request": {
+				"method": "PUT",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"id\":3,\r\n  \"isComplete\":true\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "https://localhost:44306/api/TodoItems/3",
+					"protocol": "https",
+					"host": [
+						"localhost"
+					],
+					"port": "44306",
+					"path": [
+						"api",
+						"TodoItems",
+						"3"
+					]
+				},
+				"description": "update item"
+			},
+			"response": []
+		},
+		{
+			"name": "https://localhost:44306/api/TodoItems/1",
+			"request": {
+				"method": "DELETE",
+				"header": [],
+				"url": {
+					"raw": "https://localhost:44306/api/TodoItems/3",
+					"protocol": "https",
+					"host": [
+						"localhost"
+					],
+					"port": "44306",
+					"path": [
+						"api",
+						"TodoItems",
+						"3"
+					]
+				}
+			},
+			"response": []
+		}
+	],
+	"protocolProfileBehavior": {}
+}

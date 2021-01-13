@@ -1,0 +1,14 @@
+C:\Users\ansameta\source\repos\Example\obj\Debug\Example.csprojAssemblyReference.cache
+C:\Users\ansameta\source\repos\Example\obj\Debug\Example.csproj.CoreCompileInputs.cache
+C:\Users\ansameta\source\repos\Example\bin\Debug\Example.exe.config
+C:\Users\ansameta\source\repos\Example\bin\Debug\Example.exe
+C:\Users\ansameta\source\repos\Example\bin\Debug\Example.pdb
+C:\Users\ansameta\source\repos\Example\obj\Debug\Example.exe
+C:\Users\ansameta\source\repos\Example\obj\Debug\Example.pdb
+C:\Users\ansameta\Desktop\Ps_bootcamp\bootcamp-training\week2\day4\Example\bin\Debug\Example.exe.config
+C:\Users\ansameta\Desktop\Ps_bootcamp\bootcamp-training\week2\day4\Example\bin\Debug\Example.exe
+C:\Users\ansameta\Desktop\Ps_bootcamp\bootcamp-training\week2\day4\Example\bin\Debug\Example.pdb
+C:\Users\ansameta\Desktop\Ps_bootcamp\bootcamp-training\week2\day4\Example\obj\Debug\Example.csprojAssemblyReference.cache
+C:\Users\ansameta\Desktop\Ps_bootcamp\bootcamp-training\week2\day4\Example\obj\Debug\Example.csproj.CoreCompileInputs.cache
+C:\Users\ansameta\Desktop\Ps_bootcamp\bootcamp-training\week2\day4\Example\obj\Debug\Example.exe
+C:\Users\ansameta\Desktop\Ps_bootcamp\bootcamp-training\week2\day4\Example\obj\Debug\Example.pdb

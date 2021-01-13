@@ -1,0 +1,253 @@
+﻿2020-10-01T18:12:01.1339366+05:30;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2020-10-01T18:12:01.1340561+05:30;VSTestExecutionThread;Info;SpecFlow+Runner 3.4.19 in Framework netcore31 in x64 mode execution started
+2020-10-01T18:12:01.1340582+05:30;VSTestExecutionThread;Info;TestAdapter Location: C:\Users\ansameta\Desktop\Ps_bootcamp\bootcamp-training\week2\day4\SpecFlowProject1\bin\Debug\netcoreapp3.1\TechTalk.SpecRun.VisualStudio.TestAdapter.dll
+2020-10-01T18:12:01.1354111+05:30;VSTestExecutionThread;Info;Current UserName: 'ansameta', MachineName: 'WKWIN5812429'
+2020-10-01T18:12:01.1551005+05:30;VSTestExecutionThread;Info;SpecRun: running tests in C:\Users\ansameta\Desktop\Ps_bootcamp\bootcamp-training\week2\day4\SpecFlowProject1\bin\Debug\netcoreapp3.1\SpecFlowProject1.dll
+2020-10-01T18:12:01.1553482+05:30;VSTestExecutionThread;Info;Output folder configured to "C:\Users\ansameta\Desktop\Ps_bootcamp\bootcamp-training\week2\day4\SpecFlowProject1\TestResults" (default)
+2020-10-01T18:12:01.1554918+05:30;VSTestExecutionThread;Info;Profile: 
+2020-10-01T18:12:01.1827092+05:30;VSTestExecutionThread;Info;Log file path: C:\Users\ansameta\Desktop\Ps_bootcamp\bootcamp-training\week2\day4\SpecFlowProject1\TestResults\Unnamed project__2020-10-01T181201.log
+2020-10-01T18:12:01.1861487+05:30;Thread#12;Info;Checking activation
+2020-10-01T18:12:01.2465071+05:30;Thread#12;Info;Activated.
+2020-10-01T18:12:01.2467516+05:30;Thread#12;Info;Activation check completed
+2020-10-01T18:12:01.2468856+05:30;Thread#12;Info;Starting test run
+2020-10-01T18:12:01.3027109+05:30;Thread#12;Info;Discovering target: Default
+2020-10-01T18:12:01.3029584+05:30;Thread#12;Info;Discovering tests from assembly: C:\Users\ansameta\Desktop\Ps_bootcamp\bootcamp-training\week2\day4\SpecFlowProject1\bin\Debug\netcoreapp3.1\SpecFlowProject1.dll
+2020-10-01T18:12:01.3578858+05:30;Thread#12;Info;Discovered tests from assembly: C:\Users\ansameta\Desktop\Ps_bootcamp\bootcamp-training\week2\day4\SpecFlowProject1\bin\Debug\netcoreapp3.1\SpecFlowProject1.dll
+2020-10-01T18:12:01.3586900+05:30:Test Suite Dump
+2020-10-01T18:12:01.3597985+05:30:#0: Unnamed project/ - 
+2020-10-01T18:12:01.3598084+05:30:#1: Default - 
+2020-10-01T18:12:01.3598096+05:30:#2: SpecFlowProject1 - 
+2020-10-01T18:12:01.3598114+05:30:#3: Calculator - 
+2020-10-01T18:12:01.3605748+05:30:#4: Add two numbers - TestAssembly:SpecFlowProject1/Feature:Calculator/Scenario:Add+two+numbers
+2020-10-01T18:12:01.3605980+05:30:#5: Divide two numbers - TestAssembly:SpecFlowProject1/Feature:Calculator/Scenario:Divide+two+numbers
+2020-10-01T18:12:01.3606325+05:30:End: Test Suite Dump
+2020-10-01T18:12:01.3714212+05:30:Thread#0:Scheduler: get next test for thread 0
+2020-10-01T18:12:01.3726638+05:30:Thread#:Scheduler: testitem #4 from normal test queue 
+2020-10-01T18:12:01.3727079+05:30:Thread#0:Scheduler: considering testitem #4 for thread 0
+2020-10-01T18:12:01.3749046+05:30:Thread#0:TestItem#4:testItemMatchesCurrentTestThread:UnSpecific
+2020-10-01T18:12:01.3749134+05:30:Thread#0:TestItem#4:runsOnOneOtherThreadSpecific:False
+2020-10-01T18:12:01.3749147+05:30:Thread#0:TestItem#4:runsOnOneOtherThreadUnspecific:False
+2020-10-01T18:12:01.3749169+05:30:Thread#0:Scheduler: using testitem #4 for thread 0
+2020-10-01T18:12:01.3753989+05:30:Thread#0:Scheduler: Test #4 is scheduled for thread
+2020-10-01T18:12:01.3763006+05:30:Thread#0:Scheduler: with testItemExecutionIndex 0
+2020-10-01T18:12:01.3778790+05:30:Thread #0: creating new test thread executor for SpecFlowProject1, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null (target: Default)
+2020-10-01T18:12:01.3796047+05:30:Thread #0: Creating test assembly executor for execution model OutProc
+2020-10-01T18:12:01.3797387+05:30:Thread #0: Creating test assembly executor for execution model OutProc
+2020-10-01T18:12:01.3813961+05:30:Thread #0: using TechTalk.SpecRun.Framework.Execution.OutOfProc.StreamJsonRPC.OutOfProcessTestAssemblyExecutorHost to execute tests
+2020-10-01T18:12:01.3825044+05:30:starting Out Of Process Executor
+2020-10-01T18:12:01.3835571+05:30:Assembly resolving Microsoft.VisualStudio.Validation, Version=15.3.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+2020-10-01T18:12:01.3852716+05:30:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' from .deps.json file
+2020-10-01T18:12:01.3852777+05:30:[AssemblyCache] Could not resolve 'Microsoft.VisualStudio.Validation' from .deps.json
+2020-10-01T18:12:01.3860442+05:30:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' in folder 'C:\Users\ansameta\Desktop\Ps_bootcamp\bootcamp-training\week2\day4\SpecFlowProject1\bin\Debug\netcoreapp3.1'
+2020-10-01T18:12:01.3862771+05:30:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' to 'C:\Users\ansameta\Desktop\Ps_bootcamp\bootcamp-training\week2\day4\SpecFlowProject1\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Validation.dll'
+2020-10-01T18:12:01.3863178+05:30:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' to 'C:\Users\ansameta\Desktop\Ps_bootcamp\bootcamp-training\week2\day4\SpecFlowProject1\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Validation.exe'
+2020-10-01T18:12:01.3863327+05:30:[AssemblyCache] Could not resolve 'Microsoft.VisualStudio.Validation' in folder 'C:\Users\ansameta\Desktop\Ps_bootcamp\bootcamp-training\week2\day4\SpecFlowProject1\bin\Debug\netcoreapp3.1'
+2020-10-01T18:12:01.3864745+05:30:TargetFramework: .NETCoreApp,Version=v3.1
+2020-10-01T18:12:01.3868376+05:30:Tfm: netcoreapp3.1
+2020-10-01T18:12:01.3868433+05:30:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' in folder 'C:\Users\ansameta\Desktop\Ps_bootcamp\bootcamp-training\week2\day4\SpecFlowProject1\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1'
+2020-10-01T18:12:01.3868452+05:30:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' to 'C:\Users\ansameta\Desktop\Ps_bootcamp\bootcamp-training\week2\day4\SpecFlowProject1\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1\Microsoft.VisualStudio.Validation.dll'
+2020-10-01T18:12:01.3868869+05:30:[AssemblyCache] Found file 'C:\Users\ansameta\Desktop\Ps_bootcamp\bootcamp-training\week2\day4\SpecFlowProject1\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1\Microsoft.VisualStudio.Validation.dll' for assembly 'Microsoft.VisualStudio.Validation'
+2020-10-01T18:12:01.3871536+05:30:[AssemblyCache] Resolved 'Microsoft.VisualStudio.Validation' to C:\Users\ansameta\Desktop\Ps_bootcamp\bootcamp-training\week2\day4\SpecFlowProject1\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1\Microsoft.VisualStudio.Validation.dll
+2020-10-01T18:12:01.3875720+05:30:Starting callback TCP Rpc server
+2020-10-01T18:12:01.3986555+05:30:Asynchronously starting background TCP Rpc Server on port 32768
+2020-10-01T18:12:01.3986865+05:30:Started callback TCP Rpc server on port 32768
+2020-10-01T18:12:01.3986881+05:30:Starting logger TCP Rpc server
+2020-10-01T18:12:01.4001435+05:30:Asynchronously starting background TCP Rpc Server on port 32769
+2020-10-01T18:12:01.4001550+05:30:Started logger TCP Rpc server on port 32769
+2020-10-01T18:12:01.4601064+05:30:Executing test executor at 'dotnet' 'exec "C:\Users\ansameta\Desktop\Ps_bootcamp\bootcamp-training\week2\day4\SpecFlowProject1\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1\TechTalk.SpecRun.Framework.Executor.anycpu.netcoreapp3_1.dll" --remoteRunnerPid 4036 --uniqueId "2020-10-01T181201" --outputFolder "C:\Users\ansameta\Desktop\Ps_bootcamp\bootcamp-training\week2\day4\SpecFlowProject1\TestResults" --callbackPort 32768 --loggerPort 32769' in 'C:\Users\ansameta\Desktop\Ps_bootcamp\bootcamp-training\week2\day4\SpecFlowProject1\bin\Debug\netcoreapp3.1'
+2020-10-01T18:12:01.4695119+05:30:Executor with PID 3692 has been started successfully.
+2020-10-01T18:12:01.4726758+05:30:Out of Process Executor 3692 started
+2020-10-01T18:12:01.4726890+05:30:Waiting for endpoint
+2020-10-01T18:12:02.8508485+05:30:Assembly resolving Microsoft.VisualStudio.Threading, Version=15.3.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+2020-10-01T18:12:02.8508872+05:30:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' from .deps.json file
+2020-10-01T18:12:02.8508896+05:30:[AssemblyCache] Could not resolve 'Microsoft.VisualStudio.Threading' from .deps.json
+2020-10-01T18:12:02.8508943+05:30:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' in folder 'C:\Users\ansameta\Desktop\Ps_bootcamp\bootcamp-training\week2\day4\SpecFlowProject1\bin\Debug\netcoreapp3.1'
+2020-10-01T18:12:02.8508955+05:30:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' to 'C:\Users\ansameta\Desktop\Ps_bootcamp\bootcamp-training\week2\day4\SpecFlowProject1\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Threading.dll'
+2020-10-01T18:12:02.8509170+05:30:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' to 'C:\Users\ansameta\Desktop\Ps_bootcamp\bootcamp-training\week2\day4\SpecFlowProject1\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Threading.exe'
+2020-10-01T18:12:02.8509284+05:30:[AssemblyCache] Could not resolve 'Microsoft.VisualStudio.Threading' in folder 'C:\Users\ansameta\Desktop\Ps_bootcamp\bootcamp-training\week2\day4\SpecFlowProject1\bin\Debug\netcoreapp3.1'
+2020-10-01T18:12:02.8509379+05:30:TargetFramework: .NETCoreApp,Version=v3.1
+2020-10-01T18:12:02.8509809+05:30:Tfm: netcoreapp3.1
+2020-10-01T18:12:02.8509878+05:30:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' in folder 'C:\Users\ansameta\Desktop\Ps_bootcamp\bootcamp-training\week2\day4\SpecFlowProject1\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1'
+2020-10-01T18:12:02.8509887+05:30:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' to 'C:\Users\ansameta\Desktop\Ps_bootcamp\bootcamp-training\week2\day4\SpecFlowProject1\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1\Microsoft.VisualStudio.Threading.dll'
+2020-10-01T18:12:02.8510204+05:30:[AssemblyCache] Found file 'C:\Users\ansameta\Desktop\Ps_bootcamp\bootcamp-training\week2\day4\SpecFlowProject1\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1\Microsoft.VisualStudio.Threading.dll' for assembly 'Microsoft.VisualStudio.Threading'
+2020-10-01T18:12:02.8513470+05:30:[AssemblyCache] Resolved 'Microsoft.VisualStudio.Threading' to C:\Users\ansameta\Desktop\Ps_bootcamp\bootcamp-training\week2\day4\SpecFlowProject1\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1\Microsoft.VisualStudio.Threading.dll
+2020-10-01T18:12:03.0037862+05:30:Remote executor port received: 32770
+2020-10-01T18:12:03.0040906+05:30:Creating executor TCP client on port 32770
+2020-10-01T18:12:03.0044393+05:30:Created executor TCP client on port 32770
+2020-10-01T18:12:03.0044442+05:30:Connecting to remote executor TCP server
+2020-10-01T18:12:03.0053574+05:30:Connected remote executor TCP server
+2020-10-01T18:12:03.0055053+05:30:trying to connect to Out of Process Executor the 1 attempt
+2020-10-01T18:12:03.0055122+05:30:Connection to Out of Process Executor established in the 1 attempt
+2020-10-01T18:12:03.1018492+05:30:2020-10-01T18:12:03.1005900+05:30:OutOfProcessTestAssemblyExecutor: initialized for C:\Users\ansameta\Desktop\Ps_bootcamp\bootcamp-training\week2\day4\SpecFlowProject1\bin\Debug\netcoreapp3.1\SpecFlowProject1.dll on test thread #0
+2020-10-01T18:12:03.1058806+05:30:Endpoint 3692 started
+2020-10-01T18:12:03.1211067+05:30:2020-10-01T18:12:03.1205386+05:30:OutOfProcessTestAssemblyExecutor: running tests...
+2020-10-01T18:12:03.2305252+05:30:2020-10-01T18:12:03.2299590+05:30:Assembly resolving TechTalk.SpecFlow, Version=3.4.0.0, Culture=neutral, PublicKeyToken=0778194805d6db41
+2020-10-01T18:12:03.2330376+05:30:2020-10-01T18:12:03.2326080+05:30:[AssemblyCache] Trying to resolve 'TechTalk.SpecFlow' from .deps.json file
+2020-10-01T18:12:03.2354182+05:30:2020-10-01T18:12:03.2349590+05:30:[AssemblyCache] Resolved 'TechTalk.SpecFlow' to 'C:\Users\ansameta\.nuget\packages\specflow\3.4.8\lib\netstandard2.0\TechTalk.SpecFlow.dll'
+2020-10-01T18:12:03.3085707+05:30:2020-10-01T18:12:03.3080009+05:30:Thread#0:T:-> Loading plugin C:\Users\ansameta\Desktop\Ps_bootcamp\bootcamp-training\week2\day4\SpecFlowProject1\bin\Debug\netcoreapp3.1\LivingDoc.SpecFlowPlugin.dll
+2020-10-01T18:12:03.3097535+05:30:2020-10-01T18:12:03.3094679+05:30:Assembly resolving TechTalk.SpecFlow, Version=3.4.0.0, Culture=neutral, PublicKeyToken=0778194805d6db41
+2020-10-01T18:12:03.3106923+05:30:2020-10-01T18:12:03.3104210+05:30:Assembly resolving LivingDoc.Dtos, Version=3.4.0.0, Culture=neutral, PublicKeyToken=null
+2020-10-01T18:12:03.3111931+05:30:2020-10-01T18:12:03.3108842+05:30:[AssemblyCache] Trying to resolve 'LivingDoc.Dtos' from .deps.json file
+2020-10-01T18:12:03.3118933+05:30:2020-10-01T18:12:03.3115670+05:30:[AssemblyCache] Resolved 'LivingDoc.Dtos' to 'C:\Users\ansameta\.nuget\packages\specflow.plus.livingdocplugin\3.4.133\lib\netstandard2.0\LivingDoc.Dtos.dll'
+2020-10-01T18:12:03.3142345+05:30:2020-10-01T18:12:03.3139043+05:30:Thread#0:T:-> Loading plugin C:\Users\ansameta\Desktop\Ps_bootcamp\bootcamp-training\week2\day4\SpecFlowProject1\bin\Debug\netcoreapp3.1\SpecRun.Runtime.SpecFlowPlugin.dll
+2020-10-01T18:12:03.3152796+05:30:2020-10-01T18:12:03.3149357+05:30:Assembly resolving TechTalk.SpecFlow, Version=3.4.0.0, Culture=neutral, PublicKeyToken=0778194805d6db41
+2020-10-01T18:12:03.3186365+05:30:2020-10-01T18:12:03.3183338+05:30:Thread#0:T:-> Using default config
+2020-10-01T18:12:03.3260285+05:30:2020-10-01T18:12:03.3256564+05:30:Assembly resolving Cucumber.Messages, Version=6.0.1.0, Culture=neutral, PublicKeyToken=b10c5988214f940c
+2020-10-01T18:12:03.3266902+05:30:2020-10-01T18:12:03.3263961+05:30:[AssemblyCache] Trying to resolve 'Cucumber.Messages' from .deps.json file
+2020-10-01T18:12:03.3272942+05:30:2020-10-01T18:12:03.3270281+05:30:[AssemblyCache] Resolved 'Cucumber.Messages' to 'C:\Users\ansameta\.nuget\packages\cucumber.messages\6.0.1\lib\netstandard2.0\Cucumber.Messages.dll'
+2020-10-01T18:12:03.3284059+05:30:2020-10-01T18:12:03.3281394+05:30:Assembly resolving Google.Protobuf, Version=3.7.0.0, Culture=neutral, PublicKeyToken=a7d26565bac4d604
+2020-10-01T18:12:03.3289377+05:30:2020-10-01T18:12:03.3286640+05:30:[AssemblyCache] Trying to resolve 'Google.Protobuf' from .deps.json file
+2020-10-01T18:12:03.3294900+05:30:2020-10-01T18:12:03.3292350+05:30:[AssemblyCache] Resolved 'Google.Protobuf' to 'C:\Users\ansameta\.nuget\packages\google.protobuf\3.7.0\lib\netstandard1.0\Google.Protobuf.dll'
+2020-10-01T18:12:03.3362433+05:30:2020-10-01T18:12:03.3353086+05:30:Assembly resolving Microsoft.VisualStudio.TestPlatform.ObjectModel, Version=15.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+2020-10-01T18:12:03.3375280+05:30:2020-10-01T18:12:03.3368401+05:30:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.TestPlatform.ObjectModel' from .deps.json file
+2020-10-01T18:12:03.3388348+05:30:2020-10-01T18:12:03.3381726+05:30:[AssemblyCache] Resolved 'Microsoft.VisualStudio.TestPlatform.ObjectModel' to 'C:\Users\ansameta\.nuget\packages\microsoft.testplatform.objectmodel\16.5.0\lib\netstandard2.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll'
+2020-10-01T18:12:03.3607719+05:30:2020-10-01T18:12:03.3599005+05:30:Assembly resolving Utf8Json, Version=1.3.7.0, Culture=neutral, PublicKeyToken=8a73d3ba7e392e27
+2020-10-01T18:12:03.3618510+05:30:2020-10-01T18:12:03.3612677+05:30:[AssemblyCache] Trying to resolve 'Utf8Json' from .deps.json file
+2020-10-01T18:12:03.3629331+05:30:2020-10-01T18:12:03.3623566+05:30:[AssemblyCache] Resolved 'Utf8Json' to 'C:\Users\ansameta\.nuget\packages\utf8json\1.3.7\lib\netstandard2.0\Utf8Json.dll'
+2020-10-01T18:12:03.4963445+05:30:Thread#0: Test #4/0 is started on thread #0
+2020-10-01T18:12:03.5161051+05:30:2020-10-01T18:12:03.5152971+05:30:Thread#0:B:Given the first number is 50
+2020-10-01T18:12:03.5274907+05:30:2020-10-01T18:12:03.5270936+05:30:Assembly resolving Example, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+2020-10-01T18:12:03.5280121+05:30:2020-10-01T18:12:03.5277390+05:30:[AssemblyCache] Trying to resolve 'Example' from .deps.json file
+2020-10-01T18:12:03.5288592+05:30:2020-10-01T18:12:03.5285536+05:30:[DependencyContextAssemblyCache.ResolveManagedAssembly] Resolving 'Example', found in dependency map, but unable to resolve a path in ['Example.exe']
+2020-10-01T18:12:03.5292375+05:30:2020-10-01T18:12:03.5290089+05:30:[AssemblyCache] Could not resolve 'Example' from .deps.json
+2020-10-01T18:12:03.5306636+05:30:2020-10-01T18:12:03.5303076+05:30:[AssemblyCache] Trying to resolve 'Example' in folder 'C:\Users\ansameta\Desktop\Ps_bootcamp\bootcamp-training\week2\day4\SpecFlowProject1\bin\Debug\netcoreapp3.1'
+2020-10-01T18:12:03.5330724+05:30:2020-10-01T18:12:03.5327502+05:30:[AssemblyCache] Trying to resolve 'Example' to 'C:\Users\ansameta\Desktop\Ps_bootcamp\bootcamp-training\week2\day4\SpecFlowProject1\bin\Debug\netcoreapp3.1\Example.dll'
+2020-10-01T18:12:03.5335747+05:30:2020-10-01T18:12:03.5333115+05:30:[AssemblyCache] Trying to resolve 'Example' to 'C:\Users\ansameta\Desktop\Ps_bootcamp\bootcamp-training\week2\day4\SpecFlowProject1\bin\Debug\netcoreapp3.1\Example.exe'
+2020-10-01T18:12:03.5341356+05:30:2020-10-01T18:12:03.5338404+05:30:[AssemblyCache] Found file 'C:\Users\ansameta\Desktop\Ps_bootcamp\bootcamp-training\week2\day4\SpecFlowProject1\bin\Debug\netcoreapp3.1\Example.exe' for assembly 'Example'
+2020-10-01T18:12:03.5350692+05:30:2020-10-01T18:12:03.5347321+05:30:[AssemblyCache] Resolved 'Example' to C:\Users\ansameta\Desktop\Ps_bootcamp\bootcamp-training\week2\day4\SpecFlowProject1\bin\Debug\netcoreapp3.1\Example.exe
+2020-10-01T18:12:03.5398618+05:30:2020-10-01T18:12:03.5394798+05:30:Thread#0:T:done: CalculatorStepDefinitions.GivenTheFirstNumberIs(50) (0.0s)
+2020-10-01T18:12:03.5413318+05:30:2020-10-01T18:12:03.5410919+05:30:Thread#0:B:And the second number is 70
+2020-10-01T18:12:03.5423995+05:30:2020-10-01T18:12:03.5421248+05:30:Thread#0:T:done: CalculatorStepDefinitions.GivenTheSecondNumberIs(70) (0.0s)
+2020-10-01T18:12:03.5431150+05:30:2020-10-01T18:12:03.5428207+05:30:Thread#0:B:When the two numbers are added
+2020-10-01T18:12:03.5442365+05:30:2020-10-01T18:12:03.5439895+05:30:Thread#0:T:done: CalculatorStepDefinitions.WhenTheTwoNumbersAreAdded() (0.0s)
+2020-10-01T18:12:03.5448117+05:30:2020-10-01T18:12:03.5445886+05:30:Thread#0:B:Then the result should be 120
+2020-10-01T18:12:03.5456445+05:30:2020-10-01T18:12:03.5453288+05:30:Assembly resolving nunit.framework, Version=3.12.0.0, Culture=neutral, PublicKeyToken=2638cd05610744eb
+2020-10-01T18:12:03.5461383+05:30:2020-10-01T18:12:03.5458690+05:30:[AssemblyCache] Trying to resolve 'nunit.framework' from .deps.json file
+2020-10-01T18:12:03.5467057+05:30:2020-10-01T18:12:03.5464269+05:30:[AssemblyCache] Resolved 'nunit.framework' to 'C:\Users\ansameta\.nuget\packages\nunit\3.12.0\lib\netstandard2.0\nunit.framework.dll'
+2020-10-01T18:12:03.5586136+05:30:2020-10-01T18:12:03.5582097+05:30:Thread#0:T:done: CalculatorStepDefinitions.ThenTheResultShouldBe(120) (0.0s)
+2020-10-01T18:12:03.5658329+05:30:Thread#0:Scheduler: get next test for thread 0
+2020-10-01T18:12:03.5658630+05:30:Thread#:Scheduler: testitem #5 from normal test queue 
+2020-10-01T18:12:03.5658659+05:30:Thread#0:Scheduler: considering testitem #5 for thread 0
+2020-10-01T18:12:03.5658984+05:30:Thread#0:TestItem#5:testItemMatchesCurrentTestThread:UnSpecific
+2020-10-01T18:12:03.5659013+05:30:Thread#0:TestItem#5:runsOnOneOtherThreadSpecific:False
+2020-10-01T18:12:03.5659023+05:30:Thread#0:TestItem#5:runsOnOneOtherThreadUnspecific:False
+2020-10-01T18:12:03.5659034+05:30:Thread#0:Scheduler: using testitem #5 for thread 0
+2020-10-01T18:12:03.5659212+05:30:Thread#0:Scheduler: Test #5 is scheduled for thread
+2020-10-01T18:12:03.5659438+05:30:Thread#0:Scheduler: with testItemExecutionIndex 0
+2020-10-01T18:12:03.5958380+05:30:Thread#0: Test #4/0 is finished on thread #0 as Succeeded within 0.0986835 seconds
+2020-10-01T18:12:03.5979464+05:30:Thread#0: Test #5/0 is started on thread #0
+2020-10-01T18:12:03.5995891+05:30:2020-10-01T18:12:03.5991751+05:30:Thread#0:B:Given the numerator is 14
+2020-10-01T18:12:03.6007267+05:30:2020-10-01T18:12:03.6004297+05:30:Thread#0:T:done: CalculatorStepDefinitions.GivenTheNumeratorIs(14) (0.0s)
+2020-10-01T18:12:03.6012986+05:30:2020-10-01T18:12:03.6009929+05:30:Thread#0:B:And the denominator is 7
+2020-10-01T18:12:03.6022962+05:30:2020-10-01T18:12:03.6020026+05:30:Thread#0:T:done: CalculatorStepDefinitions.GivenTheDenominatorIs(7) (0.0s)
+2020-10-01T18:12:03.6028375+05:30:2020-10-01T18:12:03.6025706+05:30:Thread#0:B:When the numbers are divided
+2020-10-01T18:12:03.6039673+05:30:2020-10-01T18:12:03.6036849+05:30:Thread#0:T:done: CalculatorStepDefinitions.WhenTheNumbersAreDivided() (0.0s)
+2020-10-01T18:12:03.6044888+05:30:2020-10-01T18:12:03.6042147+05:30:Thread#0:B:Then the result should be 2
+2020-10-01T18:12:03.6051105+05:30:2020-10-01T18:12:03.6048474+05:30:Thread#0:T:done: CalculatorStepDefinitions.ThenTheResultShouldBe(2) (0.0s)
+2020-10-01T18:12:03.6055451+05:30:2020-10-01T18:12:03.6053402+05:30:Thread#0:B:When the numerator is zero
+2020-10-01T18:12:03.6130139+05:30:2020-10-01T18:12:03.6127151+05:30:Assembly resolving Gherkin, Version=6.0.0.0, Culture=neutral, PublicKeyToken=86496cfa5b4a5851
+2020-10-01T18:12:03.6135206+05:30:2020-10-01T18:12:03.6132441+05:30:[AssemblyCache] Trying to resolve 'Gherkin' from .deps.json file
+2020-10-01T18:12:03.6141206+05:30:2020-10-01T18:12:03.6138371+05:30:[AssemblyCache] Resolved 'Gherkin' to 'C:\Users\ansameta\.nuget\packages\gherkin\6.0.0\lib\netstandard2.0\Gherkin.dll'
+2020-10-01T18:12:03.6433395+05:30:2020-10-01T18:12:03.6428657+05:30:Thread#0:T:No matching step definition found for the step. Use the following code to create one:
+2020-10-01T18:12:03.6438521+05:30:2020-10-01T18:12:03.6436017+05:30:Thread#0:T:        [When(@"the numerator is zero")]
+2020-10-01T18:12:03.6442942+05:30:2020-10-01T18:12:03.6440718+05:30:Thread#0:T:        public void WhenTheNumeratorIsZero()
+2020-10-01T18:12:03.6448082+05:30:2020-10-01T18:12:03.6445249+05:30:Thread#0:T:        {
+2020-10-01T18:12:03.6452581+05:30:2020-10-01T18:12:03.6450224+05:30:Thread#0:T:            _scenarioContext.Pending();
+2020-10-01T18:12:03.6456906+05:30:2020-10-01T18:12:03.6454753+05:30:Thread#0:T:        }
+2020-10-01T18:12:03.6464661+05:30:2020-10-01T18:12:03.6462290+05:30:Thread#0:B:Then divide by zero exception
+2020-10-01T18:12:03.6488744+05:30:2020-10-01T18:12:03.6485488+05:30:Thread#0:T:No matching step definition found for the step. Use the following code to create one:
+2020-10-01T18:12:03.6492482+05:30:2020-10-01T18:12:03.6490621+05:30:Thread#0:T:        [Then(@"divide by zero exception")]
+2020-10-01T18:12:03.6496292+05:30:2020-10-01T18:12:03.6494252+05:30:Thread#0:T:        public void ThenDivideByZeroException()
+2020-10-01T18:12:03.6500082+05:30:2020-10-01T18:12:03.6497875+05:30:Thread#0:T:        {
+2020-10-01T18:12:03.6504160+05:30:2020-10-01T18:12:03.6502018+05:30:Thread#0:T:            _scenarioContext.Pending();
+2020-10-01T18:12:03.6507930+05:30:2020-10-01T18:12:03.6505905+05:30:Thread#0:T:        }
+2020-10-01T18:12:03.6774115+05:30:2020-10-01T18:12:03.6770093+05:30:Thread#0:T:Pending: No matching step definition found for one or more steps.
+2020-10-01T18:12:03.6778972+05:30:2020-10-01T18:12:03.6776611+05:30:Thread#0:T:using System;
+2020-10-01T18:12:03.6782965+05:30:2020-10-01T18:12:03.6780840+05:30:Thread#0:T:using TechTalk.SpecFlow;
+2020-10-01T18:12:03.6786601+05:30:2020-10-01T18:12:03.6784644+05:30:Thread#0:T:namespace MyNamespace
+2020-10-01T18:12:03.6789268+05:30:2020-10-01T18:12:03.6787835+05:30:Thread#0:T:{
+2020-10-01T18:12:03.6792189+05:30:2020-10-01T18:12:03.6790750+05:30:Thread#0:T:    [Binding]
+2020-10-01T18:12:03.6796498+05:30:2020-10-01T18:12:03.6793942+05:30:Thread#0:T:    public class StepDefinitions
+2020-10-01T18:12:03.6798904+05:30:2020-10-01T18:12:03.6797537+05:30:Thread#0:T:    {
+2020-10-01T18:12:03.6801294+05:30:2020-10-01T18:12:03.6799896+05:30:Thread#0:T:        private readonly ScenarioContext _scenarioContext;
+2020-10-01T18:12:03.6804070+05:30:2020-10-01T18:12:03.6802539+05:30:Thread#0:T:        public StepDefinitions(ScenarioContext scenarioContext)
+2020-10-01T18:12:03.6806888+05:30:2020-10-01T18:12:03.6805370+05:30:Thread#0:T:        {
+2020-10-01T18:12:03.6809368+05:30:2020-10-01T18:12:03.6807810+05:30:Thread#0:T:            _scenarioContext = scenarioContext;
+2020-10-01T18:12:03.6812347+05:30:2020-10-01T18:12:03.6810387+05:30:Thread#0:T:        }
+2020-10-01T18:12:03.6816296+05:30:2020-10-01T18:12:03.6814228+05:30:Thread#0:T:        [When(@"the numerator is zero")]
+2020-10-01T18:12:03.6819720+05:30:2020-10-01T18:12:03.6817509+05:30:Thread#0:T:        public void WhenTheNumeratorIsZero()
+2020-10-01T18:12:03.6824039+05:30:2020-10-01T18:12:03.6821542+05:30:Thread#0:T:        {
+2020-10-01T18:12:03.6827403+05:30:2020-10-01T18:12:03.6825568+05:30:Thread#0:T:            _scenarioContext.Pending();
+2020-10-01T18:12:03.6830792+05:30:2020-10-01T18:12:03.6828988+05:30:Thread#0:T:        }
+2020-10-01T18:12:03.6834148+05:30:2020-10-01T18:12:03.6832335+05:30:Thread#0:T:        
+2020-10-01T18:12:03.6837827+05:30:2020-10-01T18:12:03.6835217+05:30:Thread#0:T:        [Then(@"divide by zero exception")]
+2020-10-01T18:12:03.6840939+05:30:2020-10-01T18:12:03.6839086+05:30:Thread#0:T:        public void ThenDivideByZeroException()
+2020-10-01T18:12:03.6843702+05:30:2020-10-01T18:12:03.6842097+05:30:Thread#0:T:        {
+2020-10-01T18:12:03.6846480+05:30:2020-10-01T18:12:03.6845016+05:30:Thread#0:T:            _scenarioContext.Pending();
+2020-10-01T18:12:03.6875584+05:30:2020-10-01T18:12:03.6873824+05:30:Thread#0:T:        }
+2020-10-01T18:12:03.6878398+05:30:2020-10-01T18:12:03.6876959+05:30:Thread#0:T:    }
+2020-10-01T18:12:03.6881098+05:30:2020-10-01T18:12:03.6879587+05:30:Thread#0:T:}
+2020-10-01T18:12:03.6891471+05:30:Thread#0:Scheduler: get next test for thread 0
+2020-10-01T18:12:03.6891612+05:30:Thread#:Scheduler: at the end of normal test queue
+2020-10-01T18:12:03.6891628+05:30:Thread#0:Scheduler: enumerator for thread is at end
+2020-10-01T18:12:03.6891640+05:30:Thread#0:Scheduler: No more tests for thread
+2020-10-01T18:12:03.6923430+05:30:Thread#0: Test #5/0 is finished on thread #0 as Pending within 0.0943519 seconds
+2020-10-01T18:12:03.6972343+05:30:2020-10-01T18:12:03.6969705+05:30:Got Deinitialize Signal
+2020-10-01T18:12:03.6995733+05:30:RPC Client disconnected, because 'Disposed'. 
+LastMessage: 
+Description:Stream has been disposed
+Exception:<none>
+2020-10-01T18:12:03.7003355+05:30:RPC Server disconnected, because 'Disposed'. 
+LastMessage: 
+Description:Reached end of stream.
+Exception:<none>
+2020-10-01T18:12:03.7012706+05:30:RPC Server disconnected, because 'Disposed'. 
+LastMessage: 
+Description:Stream has been disposed
+Exception:<none>
+2020-10-01T18:12:03.7022797+05:30:Assembly resolving System.Diagnostics.Process.resources, Version=4.2.2.0, Culture=en-US, PublicKeyToken=b03f5f7f11d50a3a
+2020-10-01T18:12:03.7022969+05:30:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' from .deps.json file
+2020-10-01T18:12:03.7023023+05:30:[AssemblyCache] Could not resolve 'System.Diagnostics.Process.resources' from .deps.json
+2020-10-01T18:12:03.7023089+05:30:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' in folder 'C:\Users\ansameta\Desktop\Ps_bootcamp\bootcamp-training\week2\day4\SpecFlowProject1\bin\Debug\netcoreapp3.1'
+2020-10-01T18:12:03.7023107+05:30:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' to 'C:\Users\ansameta\Desktop\Ps_bootcamp\bootcamp-training\week2\day4\SpecFlowProject1\bin\Debug\netcoreapp3.1\System.Diagnostics.Process.resources.dll'
+2020-10-01T18:12:03.7023370+05:30:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' to 'C:\Users\ansameta\Desktop\Ps_bootcamp\bootcamp-training\week2\day4\SpecFlowProject1\bin\Debug\netcoreapp3.1\System.Diagnostics.Process.resources.exe'
+2020-10-01T18:12:03.7023545+05:30:[AssemblyCache] Could not resolve 'System.Diagnostics.Process.resources' in folder 'C:\Users\ansameta\Desktop\Ps_bootcamp\bootcamp-training\week2\day4\SpecFlowProject1\bin\Debug\netcoreapp3.1'
+2020-10-01T18:12:03.7023617+05:30:TargetFramework: .NETCoreApp,Version=v3.1
+2020-10-01T18:12:03.7024192+05:30:Tfm: netcoreapp3.1
+2020-10-01T18:12:03.7024263+05:30:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' in folder 'C:\Users\ansameta\Desktop\Ps_bootcamp\bootcamp-training\week2\day4\SpecFlowProject1\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1'
+2020-10-01T18:12:03.7024283+05:30:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' to 'C:\Users\ansameta\Desktop\Ps_bootcamp\bootcamp-training\week2\day4\SpecFlowProject1\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1\System.Diagnostics.Process.resources.dll'
+2020-10-01T18:12:03.7024589+05:30:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' to 'C:\Users\ansameta\Desktop\Ps_bootcamp\bootcamp-training\week2\day4\SpecFlowProject1\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1\System.Diagnostics.Process.resources.exe'
+2020-10-01T18:12:03.7024921+05:30:[AssemblyCache] Could not resolve 'System.Diagnostics.Process.resources' in folder 'C:\Users\ansameta\Desktop\Ps_bootcamp\bootcamp-training\week2\day4\SpecFlowProject1\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1'
+2020-10-01T18:12:03.7086690+05:30:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.8'
+2020-10-01T18:12:03.7086816+05:30:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' to 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.8\System.Diagnostics.Process.resources.dll'
+2020-10-01T18:12:03.7087209+05:30:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' to 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.8\System.Diagnostics.Process.resources.exe'
+2020-10-01T18:12:03.7087430+05:30:[AssemblyCache] Could not resolve 'System.Diagnostics.Process.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.8'
+2020-10-01T18:12:03.7088532+05:30:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.8'
+2020-10-01T18:12:03.7088585+05:30:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' to 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.8\System.Diagnostics.Process.resources.dll'
+2020-10-01T18:12:03.7088868+05:30:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' to 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.8\System.Diagnostics.Process.resources.exe'
+2020-10-01T18:12:03.7089089+05:30:[AssemblyCache] Could not resolve 'System.Diagnostics.Process.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.8'
+2020-10-01T18:12:03.7090077+05:30:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.8'
+2020-10-01T18:12:03.7090127+05:30:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' to 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.8\System.Diagnostics.Process.resources.dll'
+2020-10-01T18:12:03.7090413+05:30:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' to 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.8\System.Diagnostics.Process.resources.exe'
+2020-10-01T18:12:03.7090641+05:30:[AssemblyCache] Could not resolve 'System.Diagnostics.Process.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.8'
+2020-10-01T18:12:03.7097777+05:30:Assembly resolving System.Diagnostics.Process.resources, Version=4.2.2.0, Culture=en, PublicKeyToken=b03f5f7f11d50a3a
+2020-10-01T18:12:03.7160758+05:30:Thread#-1:Scheduler: get next test for thread -1
+2020-10-01T18:12:03.7160864+05:30:Thread#:Scheduler: at the end of normal test queue
+2020-10-01T18:12:03.7160887+05:30:Thread#-1:Scheduler: enumerator for thread is at end
+2020-10-01T18:12:03.7177227+05:30;Thread#12;Info;test run finished
+2020-10-01T18:12:03.7179313+05:30;Thread#12;Info;publishing test results
+2020-10-01T18:12:03.7180662+05:30;Thread#12;Info;Not publishing results.
+2020-10-01T18:12:03.7181486+05:30;Thread#12;Info;test results published
+2020-10-01T18:12:03.7182358+05:30;Thread#12;Info;generating reports
+2020-10-01T18:12:03.7794320+05:30;Thread#12;Info;Starting external report generation process
+2020-10-01T18:12:06.9334865+05:30;Thread#12;Info;Successfully generated reports.
+2020-10-01T18:12:06.9351722+05:30;Thread#12;Info;Successfully generated reports
+2020-10-01T18:12:06.9401219+05:30:Total: 2
+2020-10-01T18:12:06.9414890+05:30:Succeeded: 1
+2020-10-01T18:12:06.9417152+05:30:Ignored: 0
+2020-10-01T18:12:06.9419118+05:30:Pending: 1
+2020-10-01T18:12:06.9419161+05:30:Skipped: 0
+2020-10-01T18:12:06.9421041+05:30:Failed: 0
+2020-10-01T18:12:06.9476238+05:30;VSTestExecutionThread;Info;Adding attachments to VSTest
+2020-10-01T18:12:06.9477261+05:30;VSTestExecutionThread;Info;adding Test Execution Report 'C:\Users\ansameta\Desktop\Ps_bootcamp\bootcamp-training\week2\day4\SpecFlowProject1\TestResults\Unnamed project__2020-10-01T181201.html'
+========== End of log file ==========

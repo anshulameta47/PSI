@@ -1,0 +1,10 @@
+﻿2020-10-01T11:08:37.9330766+05:30;Thread#1;Info;Reading test run result from Json file "C:\Users\ansameta\AppData\Local\Temp\tmp21F9.tmp".
+2020-10-01T11:08:37.9380808+05:30;Thread#1;Info;Successfully read test run result from Json file "C:\Users\ansameta\AppData\Local\Temp\tmp21F9.tmp"
+2020-10-01T11:08:37.9380808+05:30;Thread#1;Info;Deserializing test run result
+2020-10-01T11:08:38.0551786+05:30;Thread#1;Info;Successfully deserialized test run result
+2020-10-01T11:08:38.0551786+05:30;Thread#1;Info;Loading test run result
+2020-10-01T11:08:38.0689964+05:30;Thread#1;Info;Successfully loaded test run result
+2020-10-01T11:08:38.0745757+05:30;Thread#1;Info;creating 1 report(s)
+2020-10-01T11:08:38.0745757+05:30;Thread#1;Info;generate Report ReportTemplate.cshtml
+2020-10-01T11:08:39.8758406+05:30;Thread#1;Info;Finished generating reports.
+========== End of log file ==========

@@ -1,0 +1,14 @@
+Ø
+com.Sapient.NormalBookobjectO
+NormalBook(string, string)1com.Sapient.NormalBook.NormalBook(string, string)3
+NormalBook()#com.Sapient.NormalBook.NormalBook()/
+
+getTitle()!com.Sapient.NormalBook.getTitle()1
+getAuthor()"com.Sapient.NormalBook.getAuthor()/
+
+getPrice()!com.Sapient.NormalBook.getPrice()9
+setPrice(float)&com.Sapient.NormalBook.setPrice(float)/
+
+setId(int)!com.Sapient.NormalBook.setId(int)/
+
+ToString()!com.Sapient.NormalBook.ToString()

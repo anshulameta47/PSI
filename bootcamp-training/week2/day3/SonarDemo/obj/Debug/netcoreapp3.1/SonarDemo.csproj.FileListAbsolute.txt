@@ -1,0 +1,13 @@
+C:\Users\ansameta\Desktop\Ps_bootcamp\bootcamp-training\week2\day3\SonarDemo\bin\Debug\netcoreapp3.1\SonarDemo.exe
+C:\Users\ansameta\Desktop\Ps_bootcamp\bootcamp-training\week2\day3\SonarDemo\bin\Debug\netcoreapp3.1\SonarDemo.deps.json
+C:\Users\ansameta\Desktop\Ps_bootcamp\bootcamp-training\week2\day3\SonarDemo\bin\Debug\netcoreapp3.1\SonarDemo.runtimeconfig.json
+C:\Users\ansameta\Desktop\Ps_bootcamp\bootcamp-training\week2\day3\SonarDemo\bin\Debug\netcoreapp3.1\SonarDemo.runtimeconfig.dev.json
+C:\Users\ansameta\Desktop\Ps_bootcamp\bootcamp-training\week2\day3\SonarDemo\bin\Debug\netcoreapp3.1\SonarDemo.dll
+C:\Users\ansameta\Desktop\Ps_bootcamp\bootcamp-training\week2\day3\SonarDemo\bin\Debug\netcoreapp3.1\SonarDemo.pdb
+C:\Users\ansameta\Desktop\Ps_bootcamp\bootcamp-training\week2\day3\SonarDemo\obj\Debug\netcoreapp3.1\SonarDemo.csprojAssemblyReference.cache
+C:\Users\ansameta\Desktop\Ps_bootcamp\bootcamp-training\week2\day3\SonarDemo\obj\Debug\netcoreapp3.1\SonarDemo.AssemblyInfoInputs.cache
+C:\Users\ansameta\Desktop\Ps_bootcamp\bootcamp-training\week2\day3\SonarDemo\obj\Debug\netcoreapp3.1\SonarDemo.AssemblyInfo.cs
+C:\Users\ansameta\Desktop\Ps_bootcamp\bootcamp-training\week2\day3\SonarDemo\obj\Debug\netcoreapp3.1\SonarDemo.csproj.CoreCompileInputs.cache
+C:\Users\ansameta\Desktop\Ps_bootcamp\bootcamp-training\week2\day3\SonarDemo\obj\Debug\netcoreapp3.1\SonarDemo.dll
+C:\Users\ansameta\Desktop\Ps_bootcamp\bootcamp-training\week2\day3\SonarDemo\obj\Debug\netcoreapp3.1\SonarDemo.pdb
+C:\Users\ansameta\Desktop\Ps_bootcamp\bootcamp-training\week2\day3\SonarDemo\obj\Debug\netcoreapp3.1\SonarDemo.genruntimeconfig.cache

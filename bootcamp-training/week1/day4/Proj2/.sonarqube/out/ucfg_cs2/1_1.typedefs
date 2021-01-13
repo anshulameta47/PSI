@@ -1,0 +1,6 @@
+ç
+com.Sapient.AudioBookcom.Sapient.NormalBookobjectL
+AudioBook(string, string)/com.Sapient.AudioBook.AudioBook(string, string)(
+getCd()com.Sapient.AudioBook.getCd()4
+setCd(string)#com.Sapient.AudioBook.setCd(string)&
+Play()com.Sapient.AudioBook.Play()

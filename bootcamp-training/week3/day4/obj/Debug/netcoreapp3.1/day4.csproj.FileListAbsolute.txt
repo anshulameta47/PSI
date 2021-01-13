@@ -1,0 +1,13 @@
+C:\Users\ansameta\Desktop\Ps_bootcamp\bootcamp-training\week3\day4\obj\Debug\netcoreapp3.1\day4.csprojAssemblyReference.cache
+C:\Users\ansameta\Desktop\Ps_bootcamp\bootcamp-training\week3\day4\obj\Debug\netcoreapp3.1\day4.AssemblyInfoInputs.cache
+C:\Users\ansameta\Desktop\Ps_bootcamp\bootcamp-training\week3\day4\obj\Debug\netcoreapp3.1\day4.AssemblyInfo.cs
+C:\Users\ansameta\Desktop\Ps_bootcamp\bootcamp-training\week3\day4\obj\Debug\netcoreapp3.1\day4.csproj.CoreCompileInputs.cache
+C:\Users\ansameta\Desktop\Ps_bootcamp\bootcamp-training\week3\day4\bin\Debug\netcoreapp3.1\day4.exe
+C:\Users\ansameta\Desktop\Ps_bootcamp\bootcamp-training\week3\day4\bin\Debug\netcoreapp3.1\day4.deps.json
+C:\Users\ansameta\Desktop\Ps_bootcamp\bootcamp-training\week3\day4\bin\Debug\netcoreapp3.1\day4.runtimeconfig.json
+C:\Users\ansameta\Desktop\Ps_bootcamp\bootcamp-training\week3\day4\bin\Debug\netcoreapp3.1\day4.runtimeconfig.dev.json
+C:\Users\ansameta\Desktop\Ps_bootcamp\bootcamp-training\week3\day4\bin\Debug\netcoreapp3.1\day4.dll
+C:\Users\ansameta\Desktop\Ps_bootcamp\bootcamp-training\week3\day4\bin\Debug\netcoreapp3.1\day4.pdb
+C:\Users\ansameta\Desktop\Ps_bootcamp\bootcamp-training\week3\day4\obj\Debug\netcoreapp3.1\day4.dll
+C:\Users\ansameta\Desktop\Ps_bootcamp\bootcamp-training\week3\day4\obj\Debug\netcoreapp3.1\day4.pdb
+C:\Users\ansameta\Desktop\Ps_bootcamp\bootcamp-training\week3\day4\obj\Debug\netcoreapp3.1\day4.genruntimeconfig.cache

@@ -1,0 +1,56 @@
+C:\Users\ansameta\Desktop\Ps_bootcamp\bootcamp-training\week1\day4\Proj2\AudioBook.cs
+getCd 6
+getCd -1
+setCd 10
+setCd -1
+Play 4
+Play -1
+
+C:\Users\ansameta\Desktop\Ps_bootcamp\bootcamp-training\week1\day4\Proj2\IBook.cs
+getTitle 3
+getTitle -1
+getAuthor 2
+getAuthor -1
+getPrice 3
+getPrice -1
+setPrice 2
+setPrice -1
+setId 2
+setId -1
+
+C:\Users\ansameta\Desktop\Ps_bootcamp\bootcamp-training\week1\day4\Proj2\Library.cs
+SearchBook 4
+SearchBook -1
+AddBook 2
+AddBook -1
+TotalPrice 2
+TotalPrice -1
+TakeInput 2
+TakeInput -1
+validateType 2
+validateType -1
+AddBookToTextFile 2
+AddBookToTextFile -1
+
+C:\Users\ansameta\Desktop\Ps_bootcamp\bootcamp-training\week1\day4\Proj2\NormalBook.cs
+getTitle 2
+getTitle -1
+getAuthor 2
+getAuthor -1
+getPrice 2
+getPrice -1
+setPrice 4
+setPrice -1
+setId 3
+setId -1
+ToString 4
+ToString -1
+
+C:\Users\ansameta\Desktop\Ps_bootcamp\bootcamp-training\week1\day4\Proj2\Program.cs
+Main 3
+Main -1
+
+C:\Users\ansameta\Desktop\Ps_bootcamp\bootcamp-training\week1\day4\Proj2\obj\Debug\netcoreapp3.1\.NETCoreApp,Version=v3.1.AssemblyAttributes.cs
+
+C:\Users\ansameta\Desktop\Ps_bootcamp\bootcamp-training\week1\day4\Proj2\obj\Debug\netcoreapp3.1\Proj2.AssemblyInfo.cs
+

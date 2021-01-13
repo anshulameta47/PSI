@@ -1,0 +1,27 @@
+﻿2020-10-01T10:57:27.0835986+05:30;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2020-10-01T10:57:27.0837195+05:30;VSTestExecutionThread;Info;SpecFlow+Runner 3.4.19 in Framework netcore31 in x64 mode execution started
+2020-10-01T10:57:27.0837215+05:30;VSTestExecutionThread;Info;TestAdapter Location: C:\Users\ansameta\source\repos\SpecFlowProject1\bin\Debug\netcoreapp3.1\TechTalk.SpecRun.VisualStudio.TestAdapter.dll
+2020-10-01T10:57:27.0850052+05:30;VSTestExecutionThread;Info;Current UserName: 'ansameta', MachineName: 'WKWIN5812429'
+2020-10-01T10:57:27.1047674+05:30;VSTestExecutionThread;Info;SpecRun: running tests in C:\Users\ansameta\source\repos\SpecFlowProject1\bin\Debug\netcoreapp3.1\SpecFlowProject1.dll
+2020-10-01T10:57:27.1050109+05:30;VSTestExecutionThread;Info;Output folder configured to "C:\Users\ansameta\source\repos\SpecFlowProject1\TestResults" (default)
+2020-10-01T10:57:27.1051206+05:30;VSTestExecutionThread;Info;Profile: 
+2020-10-01T10:57:27.1327496+05:30;VSTestExecutionThread;Info;Log file path: C:\Users\ansameta\source\repos\SpecFlowProject1\TestResults\Unnamed project__2020-10-01T105727.log
+2020-10-01T10:57:27.1360271+05:30;Thread#12;Info;Checking activation
+2020-10-01T10:57:29.7122974+05:30;Thread#12;Error;****************************************************************************************************************
+2020-10-01T10:57:29.7148609+05:30;Thread#12;Error;*                                           SpecFlow+ Runner                                                   *
+2020-10-01T10:57:29.7153676+05:30;Thread#12;Error;****************************************************************************************************************
+2020-10-01T10:57:29.7170637+05:30;Thread#12;Error;Please sign-up for your free SpecFlow account or sign-in with your already existing account here:
+2020-10-01T10:57:29.7180338+05:30;Thread#12;Error;https://account.specflow.org/clientactivation/welcome/Runner/001BB041119B468AAE9932B1F86DE99D2BDA86F2A0306D6FFF7EEE5F6F404214E6F3E661/NotActivatedYet
+2020-10-01T10:57:29.7188612+05:30;Thread#12;Error;to execute your Scenarios again.
+2020-10-01T10:57:29.7200482+05:30;Thread#12;Error;If you are reading this message on a build agent, we couldn't recognize the agent.
+2020-10-01T10:57:29.7208233+05:30;Thread#12;Error;Please get in touch with us at support@specflow.org.
+2020-10-01T10:57:29.7223514+05:30;Thread#12;Error;****************************************************************************************************************
+2020-10-01T10:57:29.7359535+05:30;Thread#12;Error;No tests executed (activation needed)
+2020-10-01T10:57:29.7875879+05:30:Total: 0
+2020-10-01T10:57:29.7947464+05:30:Succeeded: 0
+2020-10-01T10:57:29.7956509+05:30:Ignored: 0
+2020-10-01T10:57:29.7962968+05:30:Pending: 0
+2020-10-01T10:57:29.7981176+05:30:Skipped: 0
+2020-10-01T10:57:29.7988345+05:30:Failed: 0
+2020-10-01T10:57:29.8134543+05:30;VSTestExecutionThread;Info;Adding attachments to VSTest
+========== End of log file ==========

@@ -1,0 +1,667 @@
+{
+  "$schema": "http://json.schemastore.org/sarif-1.0.0",
+  "version": "1.0.0",
+  "runs": [
+    {
+      "tool": {
+        "name": "Microsoft (R) Visual C# Compiler",
+        "version": "3.7.0.0",
+        "fileVersion": "3.7.0-6.20418.4 (9b878f99)",
+        "semanticVersion": "3.7.0",
+        "language": "en-US"
+      },
+      "results": [
+        {
+          "ruleId": "S4829",
+          "level": "warning",
+          "message": "Make sure that reading the standard input is safe here.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/ansameta/Desktop/Ps_bootcamp/bootcamp-training/week1/day4/Proj2/Library.cs",
+                "region": {
+                  "startLine": 46,
+                  "startColumn": 44,
+                  "endLine": 46,
+                  "endColumn": 62
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S4829",
+          "level": "warning",
+          "message": "Make sure that reading the standard input is safe here.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/ansameta/Desktop/Ps_bootcamp/bootcamp-training/week1/day4/Proj2/Program.cs",
+                "region": {
+                  "startLine": 17,
+                  "startColumn": 39,
+                  "endLine": 17,
+                  "endColumn": 57
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S4829",
+          "level": "warning",
+          "message": "Make sure that reading the standard input is safe here.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/ansameta/Desktop/Ps_bootcamp/bootcamp-training/week1/day4/Proj2/Program.cs",
+                "region": {
+                  "startLine": 34,
+                  "startColumn": 54,
+                  "endLine": 34,
+                  "endColumn": 72
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S4829",
+          "level": "warning",
+          "message": "Make sure that reading the standard input is safe here.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/ansameta/Desktop/Ps_bootcamp/bootcamp-training/week1/day4/Proj2/Program.cs",
+                "region": {
+                  "startLine": 51,
+                  "startColumn": 31,
+                  "endLine": 51,
+                  "endColumn": 49
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S112",
+          "level": "warning",
+          "message": "'System.Exception' should not be thrown by user code.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/ansameta/Desktop/Ps_bootcamp/bootcamp-training/week1/day4/Proj2/NormalBook.cs",
+                "region": {
+                  "startLine": 36,
+                  "startColumn": 19,
+                  "endLine": 36,
+                  "endColumn": 60
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S3973",
+          "level": "warning",
+          "message": "Use curly braces or indentation to denote the code conditionally executed by this 'if'",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/ansameta/Desktop/Ps_bootcamp/bootcamp-training/week1/day4/Proj2/NormalBook.cs",
+                "region": {
+                  "startLine": 35,
+                  "startColumn": 13,
+                  "endLine": 35,
+                  "endColumn": 24
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/ansameta/Desktop/Ps_bootcamp/bootcamp-training/week1/day4/Proj2/NormalBook.cs",
+                "region": {
+                  "startLine": 36,
+                  "startColumn": 13,
+                  "endLine": 36,
+                  "endColumn": 61
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S3973",
+          "level": "warning",
+          "message": "Use curly braces or indentation to denote the code conditionally executed by this 'else'",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/ansameta/Desktop/Ps_bootcamp/bootcamp-training/week1/day4/Proj2/NormalBook.cs",
+                "region": {
+                  "startLine": 37,
+                  "startColumn": 13,
+                  "endLine": 37,
+                  "endColumn": 17
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/ansameta/Desktop/Ps_bootcamp/bootcamp-training/week1/day4/Proj2/NormalBook.cs",
+                "region": {
+                  "startLine": 38,
+                  "startColumn": 13,
+                  "endLine": 38,
+                  "endColumn": 30
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S4829",
+          "level": "warning",
+          "message": "Make sure that reading the standard input is safe here.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/ansameta/Desktop/Ps_bootcamp/bootcamp-training/week1/day4/Proj2/Library.cs",
+                "region": {
+                  "startLine": 91,
+                  "startColumn": 19,
+                  "endLine": 91,
+                  "endColumn": 37
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S4829",
+          "level": "warning",
+          "message": "Make sure that reading the standard input is safe here.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/ansameta/Desktop/Ps_bootcamp/bootcamp-training/week1/day4/Proj2/Library.cs",
+                "region": {
+                  "startLine": 96,
+                  "startColumn": 20,
+                  "endLine": 96,
+                  "endColumn": 38
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S4829",
+          "level": "warning",
+          "message": "Make sure that reading the standard input is safe here.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/ansameta/Desktop/Ps_bootcamp/bootcamp-training/week1/day4/Proj2/Library.cs",
+                "region": {
+                  "startLine": 100,
+                  "startColumn": 37,
+                  "endLine": 100,
+                  "endColumn": 55
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S4829",
+          "level": "warning",
+          "message": "Make sure that reading the standard input is safe here.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/ansameta/Desktop/Ps_bootcamp/bootcamp-training/week1/day4/Proj2/Library.cs",
+                "region": {
+                  "startLine": 103,
+                  "startColumn": 42,
+                  "endLine": 103,
+                  "endColumn": 60
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S112",
+          "level": "warning",
+          "message": "'System.Exception' should not be thrown by user code.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/ansameta/Desktop/Ps_bootcamp/bootcamp-training/week1/day4/Proj2/Library.cs",
+                "region": {
+                  "startLine": 67,
+                  "startColumn": 27,
+                  "endLine": 67,
+                  "endColumn": 82
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S3973",
+          "level": "warning",
+          "message": "Use curly braces or indentation to denote the code conditionally executed by this 'else'",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/ansameta/Desktop/Ps_bootcamp/bootcamp-training/week1/day4/Proj2/Library.cs",
+                "region": {
+                  "startLine": 119,
+                  "startColumn": 13,
+                  "endLine": 119,
+                  "endColumn": 17
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/ansameta/Desktop/Ps_bootcamp/bootcamp-training/week1/day4/Proj2/Library.cs",
+                "region": {
+                  "startLine": 120,
+                  "startColumn": 13,
+                  "endLine": 120,
+                  "endColumn": 25
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1125",
+          "level": "warning",
+          "message": "Remove the unnecessary Boolean literal(s).",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/ansameta/Desktop/Ps_bootcamp/bootcamp-training/week1/day4/Proj2/Library.cs",
+                "region": {
+                  "startLine": 103,
+                  "startColumn": 65,
+                  "endLine": 103,
+                  "endColumn": 75
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1854",
+          "level": "warning",
+          "message": "Remove this useless assignment to local variable 'price'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/ansameta/Desktop/Ps_bootcamp/bootcamp-training/week1/day4/Proj2/Library.cs",
+                "region": {
+                  "startLine": 100,
+                  "startColumn": 24,
+                  "endLine": 100,
+                  "endColumn": 56
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S112",
+          "level": "warning",
+          "message": "'System.Exception' should not be thrown by user code.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/ansameta/Desktop/Ps_bootcamp/bootcamp-training/week1/day4/Proj2/Library.cs",
+                "region": {
+                  "startLine": 106,
+                  "startColumn": 23,
+                  "endLine": 106,
+                  "endColumn": 65
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S112",
+          "level": "warning",
+          "message": "'System.Exception' should not be thrown by user code.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/ansameta/Desktop/Ps_bootcamp/bootcamp-training/week1/day4/Proj2/Program.cs",
+                "region": {
+                  "startLine": 45,
+                  "startColumn": 34,
+                  "endLine": 45,
+                  "endColumn": 96
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S112",
+          "level": "warning",
+          "message": "'System.Exception' should not be thrown by user code.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/ansameta/Desktop/Ps_bootcamp/bootcamp-training/week1/day4/Proj2/Program.cs",
+                "region": {
+                  "startLine": 57,
+                  "startColumn": 31,
+                  "endLine": 57,
+                  "endColumn": 61
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S112",
+          "level": "warning",
+          "message": "'System.Exception' should not be thrown by user code.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/ansameta/Desktop/Ps_bootcamp/bootcamp-training/week1/day4/Proj2/Program.cs",
+                "region": {
+                  "startLine": 67,
+                  "startColumn": 27,
+                  "endLine": 67,
+                  "endColumn": 77
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S3776",
+          "level": "warning",
+          "message": "Refactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/ansameta/Desktop/Ps_bootcamp/bootcamp-training/week1/day4/Proj2/Program.cs",
+                "region": {
+                  "startLine": 8,
+                  "startColumn": 21,
+                  "endLine": 8,
+                  "endColumn": 25
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/ansameta/Desktop/Ps_bootcamp/bootcamp-training/week1/day4/Proj2/Program.cs",
+                "region": {
+                  "startLine": 14,
+                  "startColumn": 13,
+                  "endLine": 14,
+                  "endColumn": 15
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/ansameta/Desktop/Ps_bootcamp/bootcamp-training/week1/day4/Proj2/Program.cs",
+                "region": {
+                  "startLine": 21,
+                  "startColumn": 13,
+                  "endLine": 21,
+                  "endColumn": 19
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/ansameta/Desktop/Ps_bootcamp/bootcamp-training/week1/day4/Proj2/Program.cs",
+                "region": {
+                  "startLine": 35,
+                  "startColumn": 21,
+                  "endLine": 35,
+                  "endColumn": 27
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/ansameta/Desktop/Ps_bootcamp/bootcamp-training/week1/day4/Proj2/Program.cs",
+                "region": {
+                  "startLine": 49,
+                  "startColumn": 21,
+                  "endLine": 49,
+                  "endColumn": 23
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/ansameta/Desktop/Ps_bootcamp/bootcamp-training/week1/day4/Proj2/Program.cs",
+                "region": {
+                  "startLine": 56,
+                  "startColumn": 21,
+                  "endLine": 56,
+                  "endColumn": 23
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/ansameta/Desktop/Ps_bootcamp/bootcamp-training/week1/day4/Proj2/Program.cs",
+                "region": {
+                  "startLine": 59,
+                  "startColumn": 21,
+                  "endLine": 59,
+                  "endColumn": 28
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/ansameta/Desktop/Ps_bootcamp/bootcamp-training/week1/day4/Proj2/Program.cs",
+                "region": {
+                  "startLine": 71,
+                  "startColumn": 13,
+                  "endLine": 71,
+                  "endColumn": 18
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1,
+            "customProperties": {
+              "0": "+1",
+              "1": "+2 (incl 1 for nesting)",
+              "2": "+3 (incl 2 for nesting)",
+              "3": "+3 (incl 2 for nesting)",
+              "4": "+3 (incl 2 for nesting)",
+              "5": "+3 (incl 2 for nesting)",
+              "6": "+2 (incl 1 for nesting)"
+            }
+          }
+        }
+      ],
+      "rules": {
+        "S112": {
+          "id": "S112",
+          "shortDescription": "General exceptions should never be thrown",
+          "fullDescription": "Throwing such general exceptions as Exception, SystemException, ApplicationException, IndexOutOfRangeException, NullReferenceException, OutOfMemoryException and ExecutionEngineException prevents calling methods from handling true, system-generated exceptions differently than application-generated errors. ",
+          "defaultLevel": "warning",
+          "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-112",
+          "properties": {
+            "category": "Major Code Smell",
+            "isEnabledByDefault": true,
+            "tags": [
+              "C#",
+              "SonarWay",
+              "MainSourceScope"
+            ]
+          }
+        },
+        "S1125": {
+          "id": "S1125",
+          "shortDescription": "Boolean literals should not be redundant",
+          "fullDescription": "Redundant Boolean literals should be removed from expressions to improve readability.",
+          "defaultLevel": "warning",
+          "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-1125",
+          "properties": {
+            "category": "Minor Code Smell",
+            "isEnabledByDefault": true,
+            "tags": [
+              "C#",
+              "SonarWay",
+              "MainSourceScope",
+              "TestSourceScope"
+            ]
+          }
+        },
+        "S1854": {
+          "id": "S1854",
+          "shortDescription": "Unused assignments should be removed",
+          "fullDescription": "A dead store happens when a local variable is assigned a value that is not read by any subsequent instruction. Calculating or retrieving a value only to then overwrite it or throw it away, could indicate a serious error in the code. Even if it's not an error, it is at best a waste of resources. Therefore all calculated values should be used.",
+          "defaultLevel": "warning",
+          "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-1854",
+          "properties": {
+            "category": "Major Code Smell",
+            "isEnabledByDefault": true,
+            "tags": [
+              "C#",
+              "SonarWay",
+              "MainSourceScope",
+              "TestSourceScope"
+            ]
+          }
+        },
+        "S3776": {
+          "id": "S3776",
+          "shortDescription": "Cognitive Complexity of methods should not be too high",
+          "fullDescription": "Cognitive Complexity is a measure of how hard the control flow of a method is to understand. Methods with high Cognitive Complexity will be difficult to maintain.",
+          "defaultLevel": "warning",
+          "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-3776",
+          "properties": {
+            "category": "Critical Code Smell",
+            "isEnabledByDefault": false,
+            "tags": [
+              "C#",
+              "SonarWay",
+              "MainSourceScope",
+              "TestSourceScope"
+            ]
+          }
+        },
+        "S3973": {
+          "id": "S3973",
+          "shortDescription": "A conditionally executed single line should be denoted by indentation",
+          "fullDescription": "In the absence of enclosing curly braces, the line immediately after a conditional is the one that is conditionally executed. By both convention and good practice, such lines are indented. In the absence of both curly braces and indentation the intent of the original programmer is entirely unclear and perhaps not actually what is executed. Additionally, such code is highly likely to be confusing to maintainers.",
+          "defaultLevel": "warning",
+          "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-3973",
+          "properties": {
+            "category": "Critical Code Smell",
+            "isEnabledByDefault": true,
+            "tags": [
+              "C#",
+              "SonarWay",
+              "MainSourceScope",
+              "TestSourceScope"
+            ]
+          }
+        },
+        "S4829": {
+          "id": "S4829",
+          "shortDescription": "Reading the Standard Input is security-sensitive",
+          "fullDescription": "Reading Standard Input is security-sensitive. It has led in the past to the following vulnerabilities:",
+          "defaultLevel": "warning",
+          "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-4829",
+          "properties": {
+            "category": "Critical Security Hotspot",
+            "isEnabledByDefault": true,
+            "tags": [
+              "C#",
+              "SonarWay",
+              "MainSourceScope",
+              "NotConfigurable"
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

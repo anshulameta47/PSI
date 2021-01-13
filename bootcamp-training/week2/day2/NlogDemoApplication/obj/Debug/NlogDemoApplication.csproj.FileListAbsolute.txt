@@ -1,0 +1,11 @@
+C:\Users\ansameta\source\repos\NlogDemoApplication\bin\Debug\NLog.config
+C:\Users\ansameta\source\repos\NlogDemoApplication\bin\Debug\NlogDemoApplication.exe.config
+C:\Users\ansameta\source\repos\NlogDemoApplication\bin\Debug\NlogDemoApplication.exe
+C:\Users\ansameta\source\repos\NlogDemoApplication\bin\Debug\NlogDemoApplication.pdb
+C:\Users\ansameta\source\repos\NlogDemoApplication\bin\Debug\NLog.dll
+C:\Users\ansameta\source\repos\NlogDemoApplication\bin\Debug\NLog.xml
+C:\Users\ansameta\source\repos\NlogDemoApplication\obj\Debug\NlogDemoApplication.csprojAssemblyReference.cache
+C:\Users\ansameta\source\repos\NlogDemoApplication\obj\Debug\NlogDemoApplication.csproj.CoreCompileInputs.cache
+C:\Users\ansameta\source\repos\NlogDemoApplication\obj\Debug\NlogDemoApplication.csproj.CopyComplete
+C:\Users\ansameta\source\repos\NlogDemoApplication\obj\Debug\NlogDemoApplication.exe
+C:\Users\ansameta\source\repos\NlogDemoApplication\obj\Debug\NlogDemoApplication.pdb

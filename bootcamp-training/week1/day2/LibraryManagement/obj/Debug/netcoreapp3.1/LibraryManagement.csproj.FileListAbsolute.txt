@@ -1,0 +1,13 @@
+/home/anshul/Desktop/Ps_bootcamp/week1/day2/LibraryManagement/bin/Debug/netcoreapp3.1/LibraryManagement
+/home/anshul/Desktop/Ps_bootcamp/week1/day2/LibraryManagement/bin/Debug/netcoreapp3.1/LibraryManagement.deps.json
+/home/anshul/Desktop/Ps_bootcamp/week1/day2/LibraryManagement/bin/Debug/netcoreapp3.1/LibraryManagement.runtimeconfig.json
+/home/anshul/Desktop/Ps_bootcamp/week1/day2/LibraryManagement/bin/Debug/netcoreapp3.1/LibraryManagement.runtimeconfig.dev.json
+/home/anshul/Desktop/Ps_bootcamp/week1/day2/LibraryManagement/bin/Debug/netcoreapp3.1/LibraryManagement.dll
+/home/anshul/Desktop/Ps_bootcamp/week1/day2/LibraryManagement/bin/Debug/netcoreapp3.1/LibraryManagement.pdb
+/home/anshul/Desktop/Ps_bootcamp/week1/day2/LibraryManagement/obj/Debug/netcoreapp3.1/LibraryManagement.csprojAssemblyReference.cache
+/home/anshul/Desktop/Ps_bootcamp/week1/day2/LibraryManagement/obj/Debug/netcoreapp3.1/LibraryManagement.AssemblyInfoInputs.cache
+/home/anshul/Desktop/Ps_bootcamp/week1/day2/LibraryManagement/obj/Debug/netcoreapp3.1/LibraryManagement.AssemblyInfo.cs
+/home/anshul/Desktop/Ps_bootcamp/week1/day2/LibraryManagement/obj/Debug/netcoreapp3.1/LibraryManagement.csproj.CoreCompileInputs.cache
+/home/anshul/Desktop/Ps_bootcamp/week1/day2/LibraryManagement/obj/Debug/netcoreapp3.1/LibraryManagement.dll
+/home/anshul/Desktop/Ps_bootcamp/week1/day2/LibraryManagement/obj/Debug/netcoreapp3.1/LibraryManagement.pdb
+/home/anshul/Desktop/Ps_bootcamp/week1/day2/LibraryManagement/obj/Debug/netcoreapp3.1/LibraryManagement.genruntimeconfig.cache

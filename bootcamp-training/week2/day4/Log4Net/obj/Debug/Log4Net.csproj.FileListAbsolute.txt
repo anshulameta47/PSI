@@ -1,0 +1,10 @@
+C:\Users\ansameta\Desktop\Ps_bootcamp\bootcamp-training\week2\day4\Log4Net\bin\Debug\Log4Net.exe.config
+C:\Users\ansameta\Desktop\Ps_bootcamp\bootcamp-training\week2\day4\Log4Net\bin\Debug\Log4Net.exe
+C:\Users\ansameta\Desktop\Ps_bootcamp\bootcamp-training\week2\day4\Log4Net\bin\Debug\Log4Net.pdb
+C:\Users\ansameta\Desktop\Ps_bootcamp\bootcamp-training\week2\day4\Log4Net\bin\Debug\log4net.dll
+C:\Users\ansameta\Desktop\Ps_bootcamp\bootcamp-training\week2\day4\Log4Net\bin\Debug\log4net.xml
+C:\Users\ansameta\Desktop\Ps_bootcamp\bootcamp-training\week2\day4\Log4Net\obj\Debug\Log4Net.csprojAssemblyReference.cache
+C:\Users\ansameta\Desktop\Ps_bootcamp\bootcamp-training\week2\day4\Log4Net\obj\Debug\Log4Net.csproj.CoreCompileInputs.cache
+C:\Users\ansameta\Desktop\Ps_bootcamp\bootcamp-training\week2\day4\Log4Net\obj\Debug\Log4Net.csproj.CopyComplete
+C:\Users\ansameta\Desktop\Ps_bootcamp\bootcamp-training\week2\day4\Log4Net\obj\Debug\Log4Net.exe
+C:\Users\ansameta\Desktop\Ps_bootcamp\bootcamp-training\week2\day4\Log4Net\obj\Debug\Log4Net.pdb

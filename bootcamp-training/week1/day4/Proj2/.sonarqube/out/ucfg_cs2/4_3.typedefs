@@ -1,0 +1,9 @@
+É
+com.Sapient.LibraryobjectL
+SearchBook(string, string).com.Sapient.Library.SearchBook(string, string)*
+	AddBook()com.Sapient.Library.AddBook()0
+TotalPrice() com.Sapient.Library.TotalPrice().
+TakeInput()com.Sapient.Library.TakeInput()@
+validateType(string)(com.Sapient.Library.validateType(string)`
+$AddBookToTextFile(com.Sapient.IBook)8com.Sapient.Library.AddBookToTextFile(com.Sapient.IBook)*
+	Library()com.Sapient.Library.Library()
